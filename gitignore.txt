@@ -1,0 +1,26 @@
+# Python backend
+cognicare-backend/.venv/
+cognicare-backend/__pycache__/
+cognicare-backend/**/__pycache__/
+cognicare-backend/*.pyc
+cognicare-backend/cognicare.db
+cognicare-backend/.env
+
+# Flutter app
+sih/elderly_game/elder_care_app/.dart_tool/
+sih/elderly_game/elder_care_app/build/
+sih/elderly_game/elder_care_app/.flutter-plugins
+sih/elderly_game/elder_care_app/.flutter-plugins-dependencies
+sih/elderly_game/elder_care_app/linux/flutter/ephemeral/
+sih/elderly_game/elder_care_app/macos/Flutter/ephemeral/
+sih/elderly_game/elder_care_app/windows/flutter/ephemeral/
+sih/elderly_game/elder_care_app/ios/Pods/
+sih/elderly_game/elder_care_app/android/.gradle/
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+.vscode/
+.idea/
